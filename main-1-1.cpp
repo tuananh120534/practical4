@@ -7,5 +7,4 @@ int main(){
     for (int i = 0; i < 5; i++) {
         cout << i << " " << array[i].name <<" "<< array[i].age; 
     }
-    cout << endl;
 }
